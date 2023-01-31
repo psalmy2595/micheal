@@ -78,15 +78,15 @@
                                                 </div>
                                                     <nav class="rs-menu">
                                                         <ul class="nav-menu">
-                                                        <li class="menu-item-has-children current-menu-item">
+                                                        <li class="menu-item">
                                                             <a href="index.php">Home</a>
-                                                            <li class="menu-item-has-children active">
+                                                            <li class="menu-item">
                                                                 <a href="about.php">About Us</a>
                                                             </li>
-                                                                <li class="menu-item-has-children">
+                                                                <li class="menu-item">
                                                                 <a href="gallery.php">Gallery</a>
                                                                 </li> 
-                                                            <li class="menu-item-has-children">
+                                                            <li class="menu-item">
                                                                 <a href="contact.php">Contact</a>
                                                             </li>
                                                         </ul> <!-- //.nav-menu -->
